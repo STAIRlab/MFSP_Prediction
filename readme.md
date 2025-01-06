@@ -35,10 +35,13 @@
 
 - Then in `filter.py`, the dataset was filtered by the maximum interstory drift ratio under gravity (also filter ou those obviously unreliable data).
 
+- The scripts in data_generation folder now only present the generation of labeled dataset. Functions to generate unlabeled is a subset of that to generate labeled dataset. 
+
 
 ## Maximum Drift Ratio (MIDR) Predictor
 - As the filenames indicate, there are `strawman1`, `strawman2` and `proposed` scripts, they are for trainning the NN models
 - Then the `evaluation` scripts are to evaluate these models together.
 
 ## Most Fire-Sensitive Point (MFSP) Predictor
-
+- mfsp_train.py to train a MFSP predictor and mfsp_eval.py to evaluate it.
+- It's not well written. Some unnecessary / redundent operations exist.
