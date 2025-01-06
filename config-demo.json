@@ -1,0 +1,5 @@
+{
+    "basedir": "/home/username/MFSP_Prediction/",
+    "dataset_relative_basedir": "datasets/",
+    "data_runtime_relative_base_dir": "runtime/"
+}
