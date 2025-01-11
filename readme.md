@@ -1,6 +1,10 @@
 # Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators
 
 
+## dataset
+- [Google Drive](https://drive.google.com/drive/folders/1YU_oDelIoU-TRzj0TNDdZUvULSFNzlS7 )
+    - `drs3v6` is the unfiltered unlabeled dataset.
+
 ## requirements
 - to generate dataset, you may need:
     - opensees: https://pypi.org/project/opensees/
@@ -44,4 +48,3 @@
 
 ## Most Fire-Sensitive Point (MFSP) Predictor
 - mfsp_train.py to train a MFSP predictor and mfsp_eval.py to evaluate it.
-- It's not well written. Some unnecessary / redundent operations exist.
