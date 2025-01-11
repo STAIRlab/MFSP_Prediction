@@ -3,7 +3,8 @@
 
 ## dataset
 - [Google Drive](https://drive.google.com/drive/folders/1YU_oDelIoU-TRzj0TNDdZUvULSFNzlS7 )
-    - `drs3v6` is the unfiltered unlabeled dataset.
+    - `drs3v6` is the unfiltered labeled dataset. It includes 3,000 structures and their gravity simulation results as well as 30 fire case simulation for each structure.
+    - `drs4v2` is the unfiltered unlabeled dataset. It includes 30,000 structures and their gravity simulation results.
 
 ## requirements
 - to generate dataset, you may need:
