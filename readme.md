@@ -1,5 +1,6 @@
 # Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators
 
+[arXiv preprint](https://arxiv.org/abs/2502.03424)
 
 ## dataset
 - [Google Drive](https://drive.google.com/drive/folders/1YU_oDelIoU-TRzj0TNDdZUvULSFNzlS7 )
@@ -43,7 +44,7 @@
 - The scripts in data_generation folder now only present the generation of labeled dataset. Functions to generate unlabeled is a subset of that to generate labeled dataset. 
 
 
-## Maximum Drift Ratio (MIDR) Predictor
+## Maximum Interstory Drift Ratio (MIDR) Predictor
 - As the filenames indicate, there are `strawman1`, `strawman2` and `proposed` scripts, they are for trainning the NN models
 - Then the `evaluation` scripts are to evaluate these models together.
 
