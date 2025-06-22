@@ -1,6 +1,8 @@
 # Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators
 
-[arXiv preprint](https://arxiv.org/abs/2502.03424)
+- [arXiv preprint version](https://arxiv.org/abs/2502.03424)
+- [CACAIE version (Open Access)](https://doi.org/10.1111/mice.13534)
+- doi: 10.1111/mice.13534
 
 ## dataset
 - [Google Drive](https://drive.google.com/drive/folders/1YU_oDelIoU-TRzj0TNDdZUvULSFNzlS7 )
@@ -9,7 +11,7 @@
 
 ## requirements
 - to generate dataset, you may need:
-    - $\chi$ ara (formally named OpenSeesRT): https://xara.so/ ; https://stairlab.berkeley.edu/software/opensees/
+    - $\chi$ ara (previously named OpenSeesRT): https://xara.so/ ; https://stairlab.berkeley.edu/software/opensees/
     - pandas
 - to run or train the neural networks, you may need:
     - pytorch
