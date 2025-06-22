@@ -9,7 +9,7 @@
 
 ## requirements
 - to generate dataset, you may need:
-    - opensees: https://pypi.org/project/opensees/
+    - $\chi$ara (formally named OpenSeesRT): https://xara.so/ ; https://stairlab.berkeley.edu/software/opensees/
     - pandas
 - to run or train the neural networks, you may need:
     - pytorch
