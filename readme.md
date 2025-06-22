@@ -1,6 +1,8 @@
 # Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators
 
 [arXiv preprint](https://arxiv.org/abs/2502.03424)
+[CACAIE paper](https://doi.org/10.1111/mice.13534)
+doi: 10.1111/mice.13534
 
 ## dataset
 - [Google Drive](https://drive.google.com/drive/folders/1YU_oDelIoU-TRzj0TNDdZUvULSFNzlS7 )
